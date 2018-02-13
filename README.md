@@ -1,3 +1,6 @@
+# HOW TO RUN
+`ember serve`
+
 # ember-quickstart
 
 This README outlines the details of collaborating on this Ember application.
